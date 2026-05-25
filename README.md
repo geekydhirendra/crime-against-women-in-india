@@ -78,7 +78,7 @@ This project presents a **comprehensive data analytics study** of crimes committ
 | Page | Description |
 |------|-------------|
 | ![Page 1](https://github.com/geekydhirendra/crime-against-women-in-india/blob/398012a7db9a6fda14d94e8211963a44985be289/page1_main_analysis.png) | **Main Analysis** — Year-wise trends, state comparison, crime distribution |
-| ![Page 2](dashboard/screenshots/page2_district_analysis.png) | **District Analysis** — Top 20 dangerous districts, drill-down |
+| ![Page 2](https://github.com/geekydhirendra/crime-against-women-in-india/blob/59a7b114713ac987ca2ddab14f767bd962abe0b1/page2_district_analysis.png) | **District Analysis** — Top 20 dangerous districts, drill-down |
 | ![Page 3](dashboard/screenshots/page3_arrests_justice.png) | **Arrests & Justice** — Arrest rates, crime vs arrest comparison |
 | ![Page 4](dashboard/screenshots/page4_cyber_crime.png) | **Cyber Crime 2023** — State-wise cyber crimes, type distribution |
 
