@@ -544,7 +544,7 @@ High IT sector presence = higher digital crime exposure.
 
 <div align="center">
 
-**[Your Name]**
+**DHIRENDRA SINGH**
 
 *Data Analytics Portfolio Project*
 
