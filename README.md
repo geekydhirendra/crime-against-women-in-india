@@ -22,7 +22,7 @@
 
 > **Analyzing 22+ years of NCRB crime data to uncover patterns, trends, and insights about crimes against women across all Indian States & Union Territories.**
 
-[📊 View Dashboard](#-dashboard-preview) • [📈 Key Findings](#-key-findings) • [🚀 Getting Started](#-getting-started) • [📁 Project Structure](#-project-structure)
+[📊 Dashboard Preview](#-dashboard-preview) • [📈 Key Findings](#-key-findings) • [🚀 Getting Started](#-getting-started) • [📁 Project Structure](#-project-structure)
 
 </div>
 
@@ -71,7 +71,7 @@ This project presents a **comprehensive data analytics study** of crimes committ
 
 ## 🖥️ Dashboard Preview
 
-> **Interactive Power BI Dashboard — 4 Pages**
+> **Interactive Power BI Dashboard - 4 Pages**
 
 | Page | Description |
 |------|-------------|
