@@ -49,7 +49,7 @@
 
 ## 🎯 About the Project
 
-This project presents a **comprehensive data analytics study** of crimes committed against women in India, spanning **22+ years (2001–2023)**. Using data from the **National Crime Records Bureau (NCRB)** — the official government body under the Ministry of Home Affairs — this project analyzes crime patterns across:
+This project presents a **comprehensive data analytics study** of crimes committed against women in India, spanning **22+ years (2001–2023)**. Using data from the **National Crime Records Bureau (NCRB)**  the official government body under the Ministry of Home Affairs this project analyzes crime patterns across:
 
 - 📅 **22+ years** of historical data (2001–2023)
 - 🗺️ **All 36 States & Union Territories** of India
