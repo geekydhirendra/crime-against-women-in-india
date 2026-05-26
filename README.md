@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="assets/banner.png" alt="Project Banner" width="100%"/>
 
 # 🔍 Crime Against Women in India
 ### A Comprehensive Data Analytics Project
