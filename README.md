@@ -22,7 +22,7 @@
 
 > **Analyzing 22+ years of NCRB crime data to uncover patterns, trends, and insights about crimes against women across all Indian States & Union Territories.**
 
-[📊 Dashboard Preview](#-dashboard-preview) • [📈 Key Findings](#-key-findings) • [🚀 Getting Started](#-getting-started) • [📁 Project Structure](#-project-structure)
+[🖥️ Dashboard Preview](#-dashboard-preview) • [📈 Key Findings](#-key-findings) • [🚀 Getting Started](#-getting-started) • [📁 Project Structure](#-project-structure)
 
 </div>
 
